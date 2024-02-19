@@ -187,7 +187,7 @@ function sentencesAnimation(){
   let larryrightInfoSen = document.querySelectorAll(".doctor-info-right-content-c-larry .animate-p")
   sections.push(larryrightInfoS)
   sentences.push(larryrightInfoSen)
-  
+    
   let larrybottomInfoS = document.querySelector(".doctor-info-bottom-content-c-larry")
   let larrybottomInfoSen = document.querySelectorAll(".doctor-info-bottom-content-c-larry .animate-p")
   sections.push(larrybottomInfoS)
